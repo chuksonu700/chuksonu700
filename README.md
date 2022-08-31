@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **FLutter and Dart**
 
+- 👯 I’m looking to collaborate on **ANY MERN Stack Project**
+
 - 📫 How to reach me **Chuksonu700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
