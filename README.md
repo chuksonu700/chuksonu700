@@ -1,6 +1,5 @@
 <h1 align="center">Chukwuemelie Onuigbo</h1>
-<h3 align="center">Am a Passionate Full-Stack Web-Developer and DevOps engineering </h3>
-
+<h3 align="center">Am a Passionate Full-Stack Web-Developer and DevOps engineer </h3>
 
 
 - 📫 Reach Me  **Chuksonu700@gmail.com**
