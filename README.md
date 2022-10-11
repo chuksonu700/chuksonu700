@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Onuigbo CHukwuemelie</h1>
-<h3 align="center">A passionate Full-Stack developer from Nigeria</h3>
+<h1 align="center">Chukwuemelie Onuigbo</h1>
+<h3 align="center">Am a Passionate Full-Stack Web-Developer and DevOps engineering </h3>
 
-- 🌱 I’m currently learning **FLutter and Dart**
 
-- 👯 I’m looking to collaborate on **ANY MERN Stack Project**
 
-- 📫 How to reach me **Chuksonu700@gmail.com**
+- 📫 Reach Me  **Chuksonu700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
