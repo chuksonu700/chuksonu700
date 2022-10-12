@@ -49,8 +49,7 @@ You can Reach Me <a href="mailto:Chuksonu700@gmail.com">**Chuksonu700@gmail.com*
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"  height="50"/>&nbsp; &nbsp;   
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript"  height="50"/>&nbsp; &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html"  height="50"/>&nbsp; &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"  height="50"/>&nbsp; &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="Jquery"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"  height="50"/>&nbsp; &nbsp; s
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"  height="50"/>&nbsp; &nbsp; 
 </p>
 
