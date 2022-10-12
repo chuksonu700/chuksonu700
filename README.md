@@ -16,27 +16,27 @@ You can Reach Me  **Chuksonu700@gmail.com**
 <a href="https://twitter.com/chuksonu700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chuksonu700" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">I confident using THe following Languages and Tools </h3>
+<h3 align="center">I am confident using the following Languages and Tools </h3>
 
 ### DevOps
 
 <p align="left">
-<img src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" alt="Dockers"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes"  height="40"/>
-<img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" alt="aws"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="serverless"  height="40"/>
+<img src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" alt="Dockers"  height="40"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes"  height="70"/>&nbsp; &nbsp; 
+<img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" alt="aws"  height="35"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="serverless"  height="70"/>&nbsp; &nbsp; 
 </p>
 
 ### Backend Developement
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSql"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="DyanamoDB"  height="40"/>
-<img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="DyanamoDB"  height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"  height="50"/>&nbsp;  
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSql"  height="50"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB"  height="50"/>&nbsp; &nbsp; 
 </p>
 
 
