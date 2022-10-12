@@ -1,5 +1,13 @@
 <h1 align="center">Chukwuemelie Onuigbo</h1>
-<h3 align="center">Am a Passionate Full-Stack Web-Developer and DevOps Engineer </h3>
+<h3 align="center">A Passionate Full-Stack Web-Developer and DevOps Engineer </h3>
+Hello my name is Chukwuemelie 
+I am a Full Stack Web Developer and DevOps Engineer. I focus on developing and managing
+Web applications. My work involves developing, deploying and managing Web Applications.
+I have a Computer Science background from Federal University Lokoja.
+
+I am Open to Offers. Previously, I worked at Djemtech Systems as a web developer. My role involves developing web applications and also teaching other developers how to code applications.
+I'm interested in using technology to solve problems.
+
 
 
 - 📫 Reach Me  **Chuksonu700@gmail.com**
