@@ -49,3 +49,12 @@ You can Reach Me <a href="mailto:Chuksonu700@gmail.com">**Chuksonu700@gmail.com*
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="Jquery"  height="50"/>&nbsp; &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"  height="50"/>&nbsp; &nbsp; 
 </p>
+
+## I have basic Knowledge of the following Languages and framework
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" alt="Dart"  height="40"/>&nbsp; &nbsp;   
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter"  height="40"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python"  height="40"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"  height="40"/>&nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="Jquery"  height="40"/>&nbsp; &nbsp;  
+</p>
