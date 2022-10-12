@@ -9,7 +9,7 @@ I am Open to Offers.
 
 I'm interested in using technology to solve problems.
 
-You can Reach Me  **Chuksonu700@gmail.com**
+You can Reach Me <a href="mailto:Chuksonu700@gmail.com">**Chuksonu700@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
