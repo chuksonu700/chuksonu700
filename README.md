@@ -1,5 +1,5 @@
 <h1 align="center">Chukwuemelie Onuigbo</h1>
-<h3 align="center">A Passionate Full-Stack Web-Developer and DevOps Engineer </h3>
+<h3 align="center">A Passionate Cloud Developer </h3>
 
 I am a Full Stack Cloud Developer and DevOps Engineer. I focus on developing and managing
 Web applications. My work involves developing, deploying and managing Web Applications.
