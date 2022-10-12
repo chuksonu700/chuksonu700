@@ -5,15 +5,19 @@ I am a Full Stack Cloud Developer and DevOps Engineer. I focus on developing and
 Web applications. My work involves developing, deploying and managing Web Applications.
 I have a Computer Science background from Federal University Lokoja.
 
-I am Open to Offers. 
 
 I'm interested in using technology to solve problems.
+I am Open to Offers 
+
+#### I would like to hear from you
 
 You can Reach Me <a href="mailto:Chuksonu700@gmail.com">**Chuksonu700@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chuksonu700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chuksonu700" height="30" width="40" /></a>
+</p>
+<a href="https://www.linkedin.com/in/onuigbo-chukwuemelie-913596185/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" alt="chuksonu700" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">I am confident using the following Languages and Tools </h3>
